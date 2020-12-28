@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/robots-autocomplete/static/css/main.993e7dd5.chunk.css",
-    "main.js": "/robots-autocomplete/static/js/main.33132bf0.chunk.js",
-    "main.js.map": "/robots-autocomplete/static/js/main.33132bf0.chunk.js.map",
-    "runtime-main.js": "/robots-autocomplete/static/js/runtime-main.81c9d1a6.js",
-    "runtime-main.js.map": "/robots-autocomplete/static/js/runtime-main.81c9d1a6.js.map",
+    "main.js": "/robots-autocomplete/static/js/main.a7ca9813.chunk.js",
+    "main.js.map": "/robots-autocomplete/static/js/main.a7ca9813.chunk.js.map",
+    "runtime-main.js": "/robots-autocomplete/static/js/runtime-main.c8b7087f.js",
+    "runtime-main.js.map": "/robots-autocomplete/static/js/runtime-main.c8b7087f.js.map",
     "static/css/2.038644eb.chunk.css": "/robots-autocomplete/static/css/2.038644eb.chunk.css",
     "static/js/2.be49ecae.chunk.js": "/robots-autocomplete/static/js/2.be49ecae.chunk.js",
     "static/js/2.be49ecae.chunk.js.map": "/robots-autocomplete/static/js/2.be49ecae.chunk.js.map",
-    "static/js/3.8becfbb1.chunk.js": "/robots-autocomplete/static/js/3.8becfbb1.chunk.js",
-    "static/js/3.8becfbb1.chunk.js.map": "/robots-autocomplete/static/js/3.8becfbb1.chunk.js.map",
+    "static/js/3.277e6ff7.chunk.js": "/robots-autocomplete/static/js/3.277e6ff7.chunk.js",
+    "static/js/3.277e6ff7.chunk.js.map": "/robots-autocomplete/static/js/3.277e6ff7.chunk.js.map",
     "index.html": "/robots-autocomplete/index.html",
-    "precache-manifest.af0b14c322769e76506077635c0b109d.js": "/robots-autocomplete/precache-manifest.af0b14c322769e76506077635c0b109d.js",
+    "precache-manifest.1c1d0e71e36a7aedb1211fd817d8e50c.js": "/robots-autocomplete/precache-manifest.1c1d0e71e36a7aedb1211fd817d8e50c.js",
     "service-worker.js": "/robots-autocomplete/service-worker.js",
     "static/css/2.038644eb.chunk.css.map": "/robots-autocomplete/static/css/2.038644eb.chunk.css.map",
     "static/css/main.993e7dd5.chunk.css.map": "/robots-autocomplete/static/css/main.993e7dd5.chunk.css.map",
     "static/js/2.be49ecae.chunk.js.LICENSE.txt": "/robots-autocomplete/static/js/2.be49ecae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.81c9d1a6.js",
+    "static/js/runtime-main.c8b7087f.js",
     "static/css/2.038644eb.chunk.css",
     "static/js/2.be49ecae.chunk.js",
     "static/css/main.993e7dd5.chunk.css",
-    "static/js/main.33132bf0.chunk.js"
+    "static/js/main.a7ca9813.chunk.js"
   ]
 }
