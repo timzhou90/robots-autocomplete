@@ -2,6 +2,7 @@ import React, {useEffect, useState, lazy, Suspense} from 'react';
 
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
+import ErrorBoundry from '../components/ErrorBoundry';
 const CardList = lazy(() => import('../components/CardList'));
 
 const App =() =>{
@@ -34,7 +35,9 @@ const App =() =>{
             <SearchBox searchChange={(e)=>onSearchChange(e)}/>
             <Suspense fallback={renderLoader()}>
                 <Scroll>
-                    <CardList robots={filteredRobots}/>
+                    <ErrorBoundry>
+                        <CardList robots={filteredRobots}/>
+                    </ErrorBoundry>
                 </Scroll>
             </Suspense>
         </div>
