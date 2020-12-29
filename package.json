@@ -1,6 +1,6 @@
 {
   "name": "first_react_app",
-  "homepage": "https://timzhou90.github.io/robots-autocomplete",
+  "homepage": "https://timzhou90.github.io/robots-searchfield",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
