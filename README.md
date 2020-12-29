@@ -17,4 +17,4 @@ You will also see any lint errors in the console.
 This project is pure front end, go to search bar, typing something will doing search below robots. 
 
 ### Using skills
-React, React Hook, lazy Loading, React Hook inculde `useEffect`, `useState`, `State`, `Props`, `Children`, and creating one Error Boundary.
+React, React Hook, lazy Loading (`lazy`, `Suspense`), React Hook inculde (`useEffect`, `useState`), `State`, `Props`, `Children`, and creating one Error Boundary.
